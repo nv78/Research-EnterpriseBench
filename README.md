@@ -1,3 +1,7 @@
+> [!NOTE]
+> **Mirror of [anote-ai/Research-EnterpriseBench](https://github.com/anote-ai/Research-EnterpriseBench).** Built at [Anote](https://github.com/anote-ai), which I founded, together with the contributors in this repository's commit history.
+> The original is the maintained version. Please open issues and PRs there.
+
 # EnterpriseBench
 
 [![CI](https://github.com/anote-ai/research-enterprisebench/actions/workflows/ci.yml/badge.svg)](https://github.com/anote-ai/research-enterprisebench/actions/workflows/ci.yml)
